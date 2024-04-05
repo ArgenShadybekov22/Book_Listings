@@ -1,0 +1,30 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/david/.gradle/caches/transforms-3/4ecd700c773cf5624732e3577602f1ea/transformed/appcompat-1.3.1/res/drawable/abc_ic_clear_material.xml" value="0.2703125" />
+        <entry key="..\:/Users/david/.gradle/caches/transforms-3/4ecd700c773cf5624732e3577602f1ea/transformed/appcompat-1.3.1/res/drawable/abc_textfield_search_material.xml" value="0.2703125" />
+        <entry key="..\:/Users/david/.gradle/caches/transforms-3/4ecd700c773cf5624732e3577602f1ea/transformed/appcompat-1.3.1/res/layout/abc_search_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/david/Coding Projects/Android Studio Projects/Android Basics Udacity Course Projects/BookListings/app/src/main/res/drawable-anydpi/ic_action_search.xml" value="0.2703125" />
+        <entry key="..\:/Users/david/Coding Projects/Android Studio Projects/Android Basics Udacity Course Projects/BookListings/app/src/main/res/drawable/list_item.xml" value="0.2703125" />
+        <entry key="..\:/Users/david/Coding Projects/Android Studio Projects/Android Basics Udacity Course Projects/BookListings/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/david/Coding Projects/Android Studio Projects/Android Basics Udacity Course Projects/BookListings/app/src/main/res/layout/activity_results.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/david/Coding Projects/Android Studio Projects/Android Basics Udacity Course Projects/BookListings/app/src/main/res/layout/activity_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/david/Coding Projects/Android Studio Projects/Android Basics Udacity Course Projects/BookListings/app/src/main/res/layout/dialog_loading.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/david/Coding Projects/Android Studio Projects/Android Basics Udacity Course Projects/BookListings/app/src/main/res/layout/list_item_book.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/david/Coding Projects/Android Studio Projects/Android Basics Udacity Course Projects/BookListings/app/src/main/res/layout/list_item_error.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/david/Coding Projects/Android Studio Projects/Android Basics Udacity Course Projects/BookListings/app/src/main/res/layout/list_item_loading.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/david/Coding Projects/Android Studio Projects/Android Basics Udacity Course Projects/BookListings/app/src/main/res/menu-night/menu_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/david/Coding Projects/Android Studio Projects/Android Basics Udacity Course Projects/BookListings/app/src/main/res/menu/menu_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/david/Coding Projects/Android Studio Projects/Android Basics Udacity Course Projects/BookListings/app/src/main/res/menu/menu_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/david/Coding Projects/Android Studio Projects/Android Basics Udacity Course Projects/BookListings/app/src/main/res/xml/searchable.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
